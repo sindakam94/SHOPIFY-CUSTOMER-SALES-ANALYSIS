@@ -1,2 +1,2 @@
-# SHOPIFY-CUSTOMER-SALES-ANALYSIS
+# SHOPIFY | Customer Sales Analysis
 T
