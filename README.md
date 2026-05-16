@@ -17,13 +17,6 @@ The Shopify Sales and Customer Funnel Report is a dynamic Power BI dashboard bui
 - Order quantity analysis
 - Customer funnel metrics
 
-### Intended Audience
-- E-commerce Analysts
-- Shopify Store Owners
-- Sales Managers
-- Marketing Teams
-- Business Intelligence Professionals
-- Data Analytics Portfolio Projects
 
 ---
 
@@ -34,7 +27,6 @@ The dashboard was built using the following tools and technologies:
 - 📊 **Microsoft Power BI** – Dashboard development and data visualization
 - 📂 **Power Query** – Data cleaning and transformation
 - 🧠 **DAX (Data Analysis Expressions)** – KPI calculations and dynamic measures
-- 🗂️ **Data Modeling** – Relationships between customers, sales, products, and payment datasets
 - 🌍 **Bing Maps Integration** – Geographic and regional sales visualization
 
 ### File Formats
@@ -49,24 +41,6 @@ The dashboard was built using the following tools and technologies:
 ### Source
 Simulated Shopify e-commerce transactional dataset.
 
-### Dataset Includes
-- Customer purchase records
-- Product category information
-- Sales transactions
-- Payment methods
-- Regional/location data
-- Order quantities
-- Customer behavior metrics
-
-### Key Data Entities
-- Orders
-- Customers
-- Products
-- Payment Methods
-- Geographic Regions
-- Time/Hourly Trends
-
----
 
 # ✨ Features & Highlights
 
@@ -144,16 +118,10 @@ Sales and customer activity peak during late evening hours, particularly between
 - Washington
 - Houston
 - New York
-- Dallas
-- El Paso
+
 
 ### Key Insight
 Major metropolitan areas contribute significantly to overall customer and sales performance.
-
-The dashboard enables geographic analysis of:
-- Net sales
-- Customer concentration
-- Product demand by region
 
 ---
 
@@ -165,9 +133,6 @@ Donut Chart
 ### Payment Methods Included
 - Shopify Payments
 - PayPal
-- Gift Card
-- Amazon Payments
-- Manual Payments
 
 ### Key Insight
 Shopify Payments dominates transaction processing, contributing over **50%** of total transactions across sales, customers, and quantity metrics.
@@ -184,9 +149,7 @@ Clustered Column Chart
 | Product Type | Performance |
 |---|---|
 | Running Shoes | Highest Revenue & Quantity |
-| Tennis Shoes | Strong Secondary Category |
-| Walking Shoes | High Customer Demand |
-| Cycling Shoes | Moderate Contribution |
+| Tennis Shoes | Strong Secondary Category | 
 
 ### Key Insight
 Footwear products dominate total revenue generation, while accessory products contribute minimally.
@@ -217,43 +180,11 @@ Footwear products dominate total revenue generation, while accessory products co
 - Strong sales concentration in major US cities indicates high-performing regional markets.
 - Underperforming regions can be targeted for localized campaigns.
 
----
-
-## 💡 Operational Decision Support
-
-The dashboard enables stakeholders to:
-- Track sales performance in real time
-- Identify purchasing behavior trends
-- Improve customer retention strategies
-- Optimize product assortment decisions
-- Support data-driven marketing campaigns
 
 ---
 
 # 🖼️ Screenshots / Dashboard Preview
 
-## Dashboard Overview – Net Sales Analysis
-- KPI performance tracking
-- Product sales analysis
-- Payment method contribution
-- Geographic sales distribution
-- Hourly sales trends
-
----
-
-## Dashboard Overview – Total Customers Analysis
-- Customer behavior tracking
-- Regional customer concentration
-- Product engagement by customers
-- Customer payment preferences
-
----
-
-## Dashboard Overview – Total Quantity Analysis
-- Product quantity movement
-- Hourly quantity trends
-- Quantity contribution by category
-- Regional quantity distribution
 
 ---
 
