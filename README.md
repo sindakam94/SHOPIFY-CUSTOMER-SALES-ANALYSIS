@@ -29,13 +29,6 @@ The dashboard was built using the following tools and technologies:
 - 🧠 **DAX (Data Analysis Expressions)** – KPI calculations and dynamic measures
 - 🌍 **Bing Maps Integration** – Geographic and regional sales visualization
 
-### File Formats
-- `.pbix` – Power BI project file
-- `.png` – Dashboard screenshots/previews
-- `README.md` – Project documentation
-
----
-
 # 📂 Data Source
 
 ### Source
@@ -184,7 +177,7 @@ Footwear products dominate total revenue generation, while accessory products co
 ---
 
 # 🖼️ Screenshots / Dashboard Preview
--Screenshot 2026-05-16 104406.png
+Screenshot 2026-05-16 104406.png
 
 
 ---
