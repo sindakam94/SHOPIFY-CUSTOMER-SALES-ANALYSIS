@@ -177,7 +177,7 @@ Footwear products dominate total revenue generation, while accessory products co
 ---
 
 # 🖼️ Screenshots / Dashboard Preview
-![image alt]
+![image alt](https://github.com/sindakam94/SHOPIFY-CUSTOMER-SALES-ANALYSIS/blob/main/Screenshot%202026-05-16%20104406.png?raw=true)
 
 
 ---
@@ -186,10 +186,3 @@ Footwear products dominate total revenue generation, while accessory products co
 
 The Shopify Sales & Customer Funnel Dashboard transforms raw e-commerce transaction data into actionable business insights through interactive visualization and analytics.
 
-The project demonstrates:
-- Business intelligence reporting
-- KPI tracking
-- Customer behavior analysis
-- Geographic sales analysis
-- Product performance monitoring
-- Data storytelling using Microsoft Power BI
