@@ -4,7 +4,7 @@ An interactive and analytical Microsoft Power BI dashboard designed to analyze S
 
 ---
 
-# 📌 Short Description / Purpose
+# 📌 Description 
 
 The Shopify Sales and Customer Funnel Report is a dynamic Power BI dashboard built to help businesses monitor e-commerce performance through key operational and customer-focused metrics.
 
@@ -184,6 +184,7 @@ Footwear products dominate total revenue generation, while accessory products co
 ---
 
 # 🖼️ Screenshots / Dashboard Preview
+-Screenshot 2026-05-16 104406.png
 
 
 ---
